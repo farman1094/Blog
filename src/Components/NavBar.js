@@ -22,10 +22,10 @@ const NavBar = () => {
               <Link className="nav-link" to="/contact">Contact</Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="mailto:farman1761md@gmail.com"><i className="fa-solid fa-envelope"></i></a>
+              <a className="nav-link" href="mailto:farman1761md@gmail.com">Mail</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://wwww.facebook.com" target="_blank" rel="noreferrer"><i className="fa-brands fa-facebook-f"></i></a>
+              <a className="nav-link" href="https://wwww.facebook.com" target="_blank" rel="noreferrer">Facebook</a>
             </li>
 
 
